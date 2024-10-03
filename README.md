@@ -37,7 +37,7 @@ Pour la branche C, les produits les plus populaires sont produits nutritionnels 
 
 ## Tableau de Bord Interactif
 Un tableau de bord Power BI interactif a été créé pour permettre aux utilisateurs d'explorer les données de vente par branche, catégorie de produit et période de l'année. Il présente des indicateurs clés de performance (KPI) comme les revenus totaux, la marge bénéficiaire, et les ventes par branche.
-Voir le Tableau de Bord Power BI
+
 
 ![image](https://github.com/user-attachments/assets/71609959-ef8c-40d7-9776-309311b53771)
 
