@@ -43,6 +43,9 @@ Voir le Tableau de Bord Power BI
 
 ## Recommandations
 •	Augmenter les stocks des accessoires électroniques et des produits nutritifs et boissons de manière globale. Veiller à mettre plus de stocks de produits qui les plus convoités dans différentes branches.
+
 •	Cibler les promotions sur les catégories sous-performantes comme les produits de beauté pour stimuler les ventes, toutefois, adapter la stratégie à la branche  car ces dernières font face à des réalités différentes.
+
 •	Rechercher la cause des chutes des ventes et y remédier
+
 •	Réaliser des enquêtes pour déterminer la cause et palier à l’insatisfaction des clients liés à la catégorie nourriture et boissons.
