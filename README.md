@@ -10,8 +10,11 @@ Ce projet d'analyse des ventes d'un supermarché vise à fournir une vue d'ensem
 
 ## Objectifs du Projet
 •	Comprendre les tendances de vente : Identifier les produits les plus performants et les catégories sous-performantes.
+
 •	Analyser les performances par région : Comparer les résultats des différentes branches pour optimiser les ressources et les stocks.
+
 •	Identifier les périodes à forte affluence : Repérer les pics de ventes en fonction des périodes de l’année pour une gestion efficace des stocks.
+
 •	Fournir des recommandations business : Aider à la prise de décision grâce à des insights visuels et des indicateurs clés.
 
 ## Démarche Analytique
